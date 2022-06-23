@@ -1,2 +1,2 @@
 # SampleJWTAuthNoMiddleware
-Simple API using JWT Authentication that doesn't uses custom jwt middleware
+Simple API using JWT Authentication that doesn't use custom jwt middleware
